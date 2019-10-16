@@ -1,0 +1,8 @@
+yelipay:
+   appId: 2016101200668632
+   privatekey: 
+   publickey: 
+   server: https://openapi.alipaydev.com/gateway.do
+   notifyurl:
+   returnaurl: 
+   sign: RSA2
